@@ -95,3 +95,4 @@ D:\learning\myGitWebApp\obj\Debug\net9.0\refint\myGitWebApp.dll
 D:\learning\myGitWebApp\obj\Debug\net9.0\myGitWebApp.pdb
 D:\learning\myGitWebApp\obj\Debug\net9.0\myGitWebApp.genruntimeconfig.cache
 D:\learning\myGitWebApp\obj\Debug\net9.0\ref\myGitWebApp.dll
+D:\learning\myGitWebApp\obj\Debug\net9.0\myGitWebApp.sourcelink.json
